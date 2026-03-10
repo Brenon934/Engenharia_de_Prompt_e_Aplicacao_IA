@@ -1,5 +1,5 @@
 <main>
-  <p><strong>Resposta da prompt generica(O q e machine learning?):</p></strong>
+  <p><strong>Resposta do prompt generica(O q e machine learning?):</p></strong>
   <br>
   <p>O Machine Learning (ou Aprendizado de Máquina) é um subcampo da Inteligência Artificial que permite que computadores aprendam e tomem decisões sem serem explicitamente programados para cada tarefa específica.
 
