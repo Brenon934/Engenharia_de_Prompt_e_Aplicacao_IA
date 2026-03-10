@@ -1,5 +1,5 @@
 <main>
-  <p><strong>Resposta do prompt generica(O q e machine learning?):</p></strong>
+  <p><strong>- Resposta do prompt generico (O q e machine learning?):</p></strong>
   <br>
   <p>O Machine Learning (ou Aprendizado de Máquina) é um subcampo da Inteligência Artificial que permite que computadores aprendam e tomem decisões sem serem explicitamente programados para cada tarefa específica.
 
@@ -32,7 +32,7 @@ Filtros de Spam: Seu Gmail bloqueando mensagens indesejadas.
 
 Saúde: Algoritmos que analisam exames de imagem para detectar doenças precocemente.</p>
 
-<p><strong>Resposta do prompt estruturado (Agr vc é um professor da área da T.I, e quero q explique para um iniciante "o q é Machine Learning?" , use de exemplo uma analogia com esporte utilizando 3 a 4 linhas no máximo , quero q gere a resposta em Português Brasil de acordo com as regras ABNT.):</strong></p>
+<p><strong>- Resposta do prompt estruturado (Agr vc é um professor da área da T.I, e quero q explique para um iniciante "o q é Machine Learning?" , use de exemplo uma analogia com esporte utilizando 3 a 4 linhas no máximo , quero q gere a resposta em Português Brasil de acordo com as regras ABNT.):</strong></p>
 
 <article>
   <p>Olá! Como seu professor de TI, vou sintetizar esse conceito complexo de forma direta e padronizada.
@@ -50,4 +50,4 @@ MITCHELL, Tom M. Machine Learning. New York: McGraw-Hill, 1997.</p>
 </article>
 <br>
 <p><strong>Explicação:</strong></p><br>
-<p>A segunda resposta foi mais clara pra mim devido a ser mais simples e direta e a analogia me ajudou a compreender de forma clara como q funciona o metodo de aprendizado da I.A.</p>
+<p>A segunda resposta se mostra mais útil, devido a ser simples e direto ao ponto utilizando um exemplo bem elaborado e palavras menos complexas, sem gerar duplo sentido ou confusão de nterpretação</p>
