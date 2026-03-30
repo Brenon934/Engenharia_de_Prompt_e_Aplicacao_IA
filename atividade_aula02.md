@@ -1,5 +1,4 @@
-<main>
-  <p><strong>- Resposta do prompt generico (O q e machine learning?):</p></strong>
+ ## ***Resposta do Prompt genêrico (O q e machine learning?):***
   <br>
   <p>O Machine Learning (ou Aprendizado de Máquina) é um subcampo da Inteligência Artificial que permite que computadores aprendam e tomem decisões sem serem explicitamente programados para cada tarefa específica.
 
@@ -21,8 +20,7 @@ Aprendizado Não Supervisionado: O sistema recebe dados sem rótulos e precisa e
 
 Aprendizado por Reforço: A máquina aprende por tentativa e erro, recebendo "recompensas" ou "punições" baseadas em suas ações (muito usado em robótica e jogos).
 
-Exemplos no seu dia a dia<br>
-Você provavelmente usa Machine Learning o tempo todo sem perceber:
+Você provavelmente usa Machine Learning o tempo todo sem perceber, exemplos no seu dia a dia:<br>
 
 Recomendações: O que o Netflix ou Spotify sugerem para você.
 
@@ -32,9 +30,8 @@ Filtros de Spam: Seu Gmail bloqueando mensagens indesejadas.
 
 Saúde: Algoritmos que analisam exames de imagem para detectar doenças precocemente.</p>
 
-<p><strong>- Resposta do prompt estruturado (Agr vc é um professor da área da T.I, e quero q explique para um iniciante "o q é Machine Learning?" , use de exemplo uma analogia com esporte utilizando 3 a 4 linhas no máximo , quero q gere a resposta em Português Brasil de acordo com as regras ABNT.):</strong></p>
+## ***Resposta do Prompt estruturado (Agr vc é um professor da área da T.I, e quero q explique para um iniciante "o q é Machine Learning?" , use de exemplo uma analogia com esporte utilizando 3 a 4 linhas no máximo , quero q gere a resposta em Português Brasil de acordo com as regras ABNT.)***
 
-<article>
   <p>Olá! Como seu professor de TI, vou sintetizar esse conceito complexo de forma direta e padronizada.
 
 O Machine Learning (Aprendizado de Máquina) é um subcampo da Inteligência Artificial que desenvolve algoritmos capazes de identificar padrões em dados para realizar previsões ou tomar decisões de forma autônoma. Em vez de seguir regras estáticas, o sistema evolui seu desempenho à medida que é exposto a novos volumes de informação.
@@ -47,7 +44,8 @@ Referências Bibliográficas (Norma ABNT NBR 6023)
 FACELI, Katti et al. Inteligência Artificial: uma abordagem de aprendizado de máquina. 2. ed. Rio de Janeiro: LTC, 2021.
 
 MITCHELL, Tom M. Machine Learning. New York: McGraw-Hill, 1997.</p>
-</article>
 <br>
-<p><strong>Explicação:</strong></p><br>
-<p>A segunda resposta se mostra mais útil, devido a ser simples e direto ao ponto, utilizando um exemplo bem elaborado e palavras menos complexas, sem gerar duplo sentido ou confusão de nterpretação</p>
+
+### ***Explicação:***
+
+<p>A segunda resposta se mostra mais útil, devido a ser simples e direto ao ponto, utilizando um exemplo bem elaborado e palavras menos complexas, sem gerar duplo sentido ou confusão de interpretação</p>
