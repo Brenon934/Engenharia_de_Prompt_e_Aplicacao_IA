@@ -181,4 +181,11 @@ Já o **Código 1** é mais simples, porém mais limitado e menos robusto.
 
 ---
 
+## 🖼️ Prints dos Prompts:
+
+<img width="817" height="736" alt="Image" src="https://github.com/user-attachments/assets/da1533ed-94bf-484d-bfc4-a82b7338c62a" />
+<br><br>
+<img width="883" height="847" alt="Image" src="https://github.com/user-attachments/assets/86a6a76c-140c-4c0b-94a4-344d88bd7fca" />
+
+
 
