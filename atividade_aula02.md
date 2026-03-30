@@ -50,4 +50,4 @@ MITCHELL, Tom M. Machine Learning. New York: McGraw-Hill, 1997.</p>
 </article>
 <br>
 <p><strong>Explicação:</strong></p><br>
-<p>A segunda resposta se mostra mais útil, devido a ser simples e direto ao ponto utilizando um exemplo bem elaborado e palavras menos complexas, sem gerar duplo sentido ou confusão de nterpretação</p>
+<p>A segunda resposta se mostra mais útil, devido a ser simples e direto ao ponto, utilizando um exemplo bem elaborado e palavras menos complexas, sem gerar duplo sentido ou confusão de nterpretação</p>
