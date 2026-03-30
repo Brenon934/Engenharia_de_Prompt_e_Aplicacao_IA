@@ -1,4 +1,6 @@
-# Prompt inicial (vago):
+# Exercício Prático – Refinamento de Prompts em Desenvolvimento de Sistemas
+
+## Prompt inicial (vago):
 
 Crie um código em Python para calcular a soma de números.
 
@@ -22,7 +24,7 @@ print("A soma total é:", soma)
 ```
 <br>
 
-# Refinamento:
+## Refinamento:
 
 Crie um código em Python que receba uma lista de números inteiros como entrada e retorne a soma. Inclua comentários explicativos em cada etapa e valide se a lista está vazia antes de calcular.
 
