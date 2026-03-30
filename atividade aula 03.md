@@ -8,9 +8,9 @@
 
 <h2 align="center">Frase(Chain-of-Thought):</h2>
 
-<img width="928" height="729" alt="Image" src="https://github.com/user-attachments/assets/0be39d04-d876-4932-b665-67f81924e0ae" />
+<img width="939" height="625" alt="Image" src="https://github.com/user-attachments/assets/07d4e15d-528a-4d69-9fd2-3b8a79955edd" />
 
-<img width="882" height="693" alt="Image" src="https://github.com/user-attachments/assets/5de78e44-e2ce-4df1-bea2-8682bc10a8bd" />
+<img width="888" height="502" alt="Image" src="https://github.com/user-attachments/assets/085b4ddc-2ec4-4932-90a5-8a1f84d30891" />
 <br>
 <br>
 <div>
