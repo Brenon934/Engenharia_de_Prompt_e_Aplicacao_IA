@@ -1,20 +1,23 @@
 <div align="center">
+
+# Desafio: Transformar uma instrução vaga em um Prompt Mestre estruturado.
+<br> <br>
   
-# Prompt vago:
+## Prompt vago:
 
 <img width="999" height="817" alt="Image" src="https://github.com/user-attachments/assets/32f4d626-aeb1-4ad8-9f6b-60e7c25bee16" />
 <br><br>
 
-# Prompt de Alto Desempenho: <br> (Persona + Contexto + Restrição + Formato) : 
+## Prompt de Alto Desempenho: <br> (Persona + Contexto + Restrição + Formato) : 
 
 <img width="1139" height="833" alt="Image" src="https://github.com/user-attachments/assets/c036471c-f7a2-4946-8c99-0edee39cdf77" />
 <br><br>
 
-## **Resposta da Equação do Prompt:**
+# **Resposta da Equação do Prompt:**
 
  </div>
  
-# 🧮 Calculadora de IMC em Python (Guia para Iniciantes)
+## 🧮 Calculadora de IMC em Python (Guia para Iniciantes)
 
 ## 📌 Objetivo
 Neste exercício, você aprenderá a criar uma calculadora simples de IMC (Índice de Massa Corporal) utilizando Python, praticando entrada de dados, operações matemáticas e estruturas condicionais.
