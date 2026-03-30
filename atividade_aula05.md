@@ -59,3 +59,126 @@ resultado = somar_lista(lista)
 # Exibe o resultado
 print("A soma da lista é:", resultado)
 ```
+# 📊 Comparação de Códigos Python
+
+## 🧩 1. Estrutura Geral
+
+### Código 1 (interativo com `input`)
+- Executa diretamente no fluxo principal.
+- Não utiliza funções.
+- Mistura lógica de entrada, processamento e saída.
+
+### Código 2 (com função `somar_lista`)
+- Organizado em função reutilizável.
+- Separa lógica de processamento da execução.
+- Mais modular e escalável.
+
+✅ **Melhor:** Código 2  
+➡️ Motivo: segue o princípio de **modularização**.
+
+---
+
+## 🔍 2. Reutilização de Código
+
+### Código 1
+- Não pode ser reutilizado facilmente.
+- Depende de entrada manual (`input`).
+
+### Código 2
+- Função pode ser chamada várias vezes.
+- Pode ser usada em outros programas.
+
+✅ **Melhor:** Código 2  
+➡️ Motivo: promove **reutilização**.
+
+---
+
+## 🛡️ 3. Validação de Dados
+
+### Código 1
+- Não valida entrada.
+- Pode quebrar se o usuário digitar algo inválido.
+
+### Código 2
+- Verifica se a lista está vazia.
+- Valida se todos os elementos são inteiros.
+- Lança erro explícito (`ValueError`).
+
+✅ **Melhor:** Código 2  
+➡️ Motivo: segue boas práticas de **validação e segurança**.
+
+---
+
+## 🧠 4. Clareza e Legibilidade
+
+### Código 1
+- Simples, mas pouco organizado.
+- Difícil de manter conforme cresce.
+
+### Código 2
+- Comentários explicativos em cada etapa.
+- Código mais limpo e compreensível.
+
+✅ **Melhor:** Código 2  
+➡️ Motivo: maior **legibilidade e manutenção**.
+
+---
+
+## ⚙️ 5. Boas Práticas (Pythonic)
+
+### Código 1
+- Uso básico de `for` e `input`.
+- Não segue padrões mais avançados.
+
+### Código 2
+- Uso de função (`def`).
+- Tratamento de erros.
+- Tipagem implícita controlada (`isinstance`).
+
+✅ **Melhor:** Código 2  
+➡️ Motivo: mais alinhado com **boas práticas Python**.
+
+---
+
+## 🚀 6. Escalabilidade
+
+### Código 1
+- Difícil de expandir (ex: integrar com API, interface gráfica, etc).
+
+### Código 2
+- Fácil de integrar em sistemas maiores.
+- Pode ser testado isoladamente.
+
+✅ **Melhor:** Código 2  
+➡️ Motivo: melhor **escalabilidade**.
+
+---
+
+# 🏆 Conclusão Final
+
+| Critério              | Melhor Código |
+|----------------------|--------------|
+| Estrutura            | Código 2     |
+| Reutilização         | Código 2     |
+| Validação            | Código 2     |
+| Legibilidade         | Código 2     |
+| Boas práticas        | Código 2     |
+| Escalabilidade       | Código 2     |
+
+👉 **Vencedor geral: Código 2**
+
+---
+
+## 💡 Resumo
+
+O **Código 2** é mais estruturado porque:
+- Usa funções (modularização)
+- Valida entradas
+- Trata erros
+- É reutilizável e escalável
+
+Já o **Código 1** é mais simples, porém mais limitado e menos robusto.
+
+---
+
+
