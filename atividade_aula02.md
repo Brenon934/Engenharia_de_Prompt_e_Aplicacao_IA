@@ -4,7 +4,8 @@
 
 Em vez de seguir uma lista rígida de instruções (se X, faça Y), o sistema analisa grandes volumes de dados, identifica padrões e cria modelos matemáticos para prever resultados ou classificar informações.
 
-Como funciona na prática?<br>
+Como funciona na prática?
+
 Imagine que você quer que um computador identifique se uma fruta é uma maçã ou uma laranja:
 
 Abordagem Tradicional: Você teria que escrever regras manuais, como "se for redondo e laranja, é uma laranja". Mas e se a maçã for amarela? O código quebraria.
