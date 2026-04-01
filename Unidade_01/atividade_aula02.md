@@ -1,4 +1,7 @@
- ## ***Resposta do Prompt genêrico (O q e machine learning?):***
+ ## ***O q é machine learning?***
+ 
+ ## ***Resposta do Prompt genêrico:***
+   
   <br>
   <p>O Machine Learning (ou Aprendizado de Máquina) é um subcampo da Inteligência Artificial que permite que computadores aprendam e tomem decisões sem serem explicitamente programados para cada tarefa específica.
 
@@ -31,7 +34,9 @@ Filtros de Spam: Seu Gmail bloqueando mensagens indesejadas.
 
 Saúde: Algoritmos que analisam exames de imagem para detectar doenças precocemente.</p>
 
-## ***Resposta do Prompt estruturado (Agr vc é um professor da área da T.I, e quero q explique para um iniciante "o q é Machine Learning?" , use de exemplo uma analogia com esporte utilizando 3 a 4 linhas no máximo , quero q gere a resposta em Português Brasil de acordo com as regras ABNT.)***
+## ***Agr vc é um professor da área da T.I, e quero q explique para um iniciante "o q é Machine Learning?" , use de exemplo uma analogia com esporte utilizando 3 a 4 linhas no máximo , gere a explicação em Português Brasil de acordo com as regras ABNT.***
+
+## ***Resposta do Prompt estruturado:***
 
   <p>Olá! Como seu professor de TI, vou sintetizar esse conceito complexo de forma direta e padronizada.
 
