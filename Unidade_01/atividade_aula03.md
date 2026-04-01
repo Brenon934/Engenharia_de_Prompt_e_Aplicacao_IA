@@ -1,4 +1,4 @@
-<h2 align="center">Tokens:</h2>
+<h2 align="center">Análise de Tokens:</h2>
 
 <img width="877" height="668" alt="Image" src="https://github.com/user-attachments/assets/ae65cde8-324f-4a2c-87f5-653242377e7d" />
 
