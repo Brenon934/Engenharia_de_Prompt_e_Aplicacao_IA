@@ -34,6 +34,7 @@ Filtros de Spam: Seu Gmail bloqueando mensagens indesejadas.
 
 Saúde: Algoritmos que analisam exames de imagem para detectar doenças precocemente.</p>
 
+---
 ## ***Agr vc é um professor da área da T.I, e quero q explique para um iniciante "o q é Machine Learning?" , use de exemplo uma analogia com esporte utilizando 3 a 4 linhas no máximo , gere a explicação em Português Brasil de acordo com as regras ABNT.***
 
 ## ***Resposta do Prompt estruturado:***
