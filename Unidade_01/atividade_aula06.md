@@ -229,6 +229,6 @@ mesmo dentro dos comentários explicativos e nas mensagens dentro do código.
 
 ### Versão Restritiva:
 
- O cálculo matemático está correto e o código funciona perfeitamente sendo um código limpo porém não muito claro para inicantes devido a falta de comentários e textos explicativos. Não houve textos não solicitados
+ O cálculo matemático está correto e o código funciona perfeitamente sendo um código limpo porém não muito claro para inicantes devído a falta de comentários e textos explicativos. Não houve textos não solicitados
  porém a I.A não manteve o personagem do prompt anterior, o que fez com que algumas mensagens fossem alteradas como por exemplo a mensagem "Entrada vazia. Impressionante..." por "Entrada vazia.".
    
