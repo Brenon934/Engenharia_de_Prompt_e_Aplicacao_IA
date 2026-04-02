@@ -231,4 +231,14 @@ mesmo dentro dos comentários explicativos e nas mensagens dentro do código.
 
  O cálculo matemático está correto e o código funciona perfeitamente sendo um código limpo porém não muito claro para inicantes devído a falta de comentários e textos explicativos. Não houve textos não solicitados
  porém a I.A não manteve o personagem do prompt anterior, o que fez com que algumas mensagens fossem alteradas como por exemplo a mensagem "Entrada vazia. Impressionante..." por "Entrada vazia.".
+
+ <h1 align="center"> Prints dos Prompts: </h1>
+
+ <img width="981" height="841" alt="Image" src="https://github.com/user-attachments/assets/f93cb93b-d122-4b56-a1d1-b68df41f12f3" /><br><br>
+
+<img width="936" height="821" alt="Image" src="https://github.com/user-attachments/assets/ef095c49-3462-4f77-9648-3696f6693e2d" /><br><br>
+
+<img width="880" height="408" alt="Image" src="https://github.com/user-attachments/assets/df7f0537-b0e6-4099-b4d7-5eb4f6a38de2" /><br><br>
+
+<img width="888" height="688" alt="Image" src="https://github.com/user-attachments/assets/4d6d586f-36f9-484d-a369-aeed1e6a6ffb" /><br><br>
    
