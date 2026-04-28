@@ -12,5 +12,14 @@ pois quando se trata de um contexto ético o uso de código gerado por I.A se ba
 
 Por fim  o desenvolvedor deve validar se a lógica proposta não compromete a privacidade de dados ou a integridade do sistema, e assumir a responasabilidade no uso da I.A como ferramenta para o desenvolvimento.
 
+Fonte: Podcast da disciplina, Gemini:
+
+* Marcos Éticos e Governança: As diretrizes da UNESCO sobre a Ética da Inteligência Artificial e a Lei de IA da União Europeia (EU AI Act) estabelecem que a responsabilidade final e a supervisão devem ser sempre humanas para evitar danos e vieses.
+
+* Segurança e Vulnerabilidades: O OWASP (Open Web Application Security Project) publica guias específicos (como o Top 10 for LLM Applications) que alertam sobre os riscos de segurança em códigos gerados por IA, enfatizando a necessidade de revisão manual para evitar falhas como injeção de código e vazamento de dados.
+
+* Princípios de Engenharia: Documentações de ferramentas líderes (como GitHub Copilot e AWS CodeWhisperer) reforçam em seus termos de uso o modelo de "Responsabilidade Compartilhada", onde o desenvolvedor é o único responsável pela validação e segurança do código final.
+
+* Propriedade Intelectual: Discussões jurídicas em fóruns como a WIPO (World Intellectual Property Organization) discutem a autoria e os riscos de plágio em códigos gerados por máquinas, sustentando a necessidade do crivo humano para garantir a originalidade.
 
 
