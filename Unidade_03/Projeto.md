@@ -6,6 +6,8 @@ O grupo desenvolveu um protótipo de uma aplicação web chamada **Páginas**, v
 
 O desafio foi desenvolver uma solução funcional utilizando conceitos de **Low Code/No Code/Vibecode**, priorizando rapidez no desenvolvimento e uma interface moderna e fácil de usar.
 
+### Acesse o protótipo (Aqui)
+
 ---
 
 ## 🖥️ Protótipo
