@@ -110,7 +110,7 @@ As tarefas foram divididas entre os integrantes da equipe da seguinte forma:
 
 - Melhorar a organização do código em arquivos separados;
 
-- Aprimorar a remoção e adição de livros;
+- Aprimorar e corrigir problemas na remoção e adição de livros;
 
 - Criar uma comunidade para que usuários possam compartilhar livros, reflexões e interagir;
 
