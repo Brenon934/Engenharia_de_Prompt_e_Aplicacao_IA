@@ -112,7 +112,7 @@ As tarefas foram divididas entre os integrantes da equipe da seguinte forma:
 
 - Aprimorar e corrigir problemas na remoção e adição de livros;
 
-- Criar uma comunidade para que usuários possam compartilhar livros, reflexões e interagir;
+- Aprimorar o sistema de notificações para que o usuário possa configurar da sua preferência;
 
 - Adicionar capas e ilustrações reais dos livros para enriquecer o visual da bibliotéca.
 
@@ -124,6 +124,8 @@ As tarefas foram divididas entre os integrantes da equipe da seguinte forma:
 - Adicionar autenticação de usuários;
 
 - Criar novas funcionalidades para o sistema(Ex: Visualizar histórico de leitura);
+
+- Criar uma comunidade para que usuários possam compartilhar livros, reflexões e interagir;
 
 - Integrar APIs externas para recomendações inteligentes de livros.
 
