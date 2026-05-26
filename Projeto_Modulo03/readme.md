@@ -4,27 +4,24 @@
 
 O objetivo principal do projeto foi desenvolver uma aplicação funcional explorando os conceitos de Low Code/No Code/Vibe Code para criar um sistema intuitivo, organizado e de rápida implementação.
 
-A proposta escolhida pelo grupo foi criar uma plataforma intuitiva que permitisse aos usuários cadastrar livros, acompanhar o progresso de leitura, receber lembretes e visualizar recomendações de leitura.
-
-
+A Proposta escolhida pelo grupo foi criar um protótipo de uma aplicação web chamada **Páginas**, voltada para o gerenciamento e organização de leituras pessoais. O objetivo principal do projeto foi criar uma plataforma intuitiva que permitisse aos usuários cadastrar livros, acompanhar o progresso de leitura, receber lembretes e visualizar recomendações de leitura.
 
 ---
 
 ## 🖥️ Protótipo
 
-O protótipo foi desenvolvido integralmente no Bubble, contendo telas organizadas e componentes visuais voltados para facilitar a navegação do usuário.
+O protótipo desenvolvido possui as seguintes funcionalidades:
 
-Entre as principais funcionalidades implementadas estão:
+- Tela de login;
+- Biblioteca de livros;
+- Controle de progresso de leitura;
+- Sistema de lembretes;
+- Recomendações de livros;
+- Interface responsiva para celular e computador.
 
-- Tela de cadastro e login de usuários;
-- Área de gerenciamento de informações;
-- Sistema de organização de dados em tempo real;
-- Interface responsiva e visual intuitivo;
-- Fluxos automatizados utilizando os recursos nativos da plataforma.
+O sistema funciona como uma biblioteca virtual pessoal, permitindo adicionar livros, alterar status de leitura e acompanhar o progresso de cada obra cadastrada.
 
-O funcionamento do sistema ocorre de maneira simples: o usuário realiza o cadastro na plataforma, acessa o sistema por meio do login e consegue visualizar, cadastrar e organizar informações dentro da aplicação. Todas as ações realizadas são processadas automaticamente pelos workflows do Bubble, sem necessidade de programação manual complexa.
-
-Os arquivos de imagens e capturas de tela do protótipo foram armazenados na pasta `/docs`, conforme solicitado na atividade.
+Acesse o Protótipo: [Páginas](https://pginas-54957.bubbleapps.io/version-test)
 
 ---
 
@@ -70,9 +67,10 @@ Uma das principais limitações encontradas foi relacionada às restrições do 
 
 O projeto fica diretamente vinculado ao ecossistema do Bubble, tornando a aplicação dependente da infraestrutura e das regras da própria plataforma. Isso pode gerar dificuldades futuras em casos de migração para outras tecnologias.
 
-### 3. Personalizações Avançadas Limitadas
+### 3. Imprevisibilidade e possíveis alucinações da Inteligência Artificial
 
-Embora o Bubble ofereça ampla liberdade visual, algumas personalizações mais específicas exigem conhecimento complementar em HTML, CSS ou JavaScript, o que limita parte da flexibilidade esperada em determinadas funcionalidades.
+Apesar de auxiliar bastante no desenvolvimento, a IA nem sempre gerava respostas totalmente corretas ou coerentes com o que foi solicitado. Em alguns casos, partes do código apresentavam erros, funcionalidades incompletas ou informações inconsistentes, exigindo revisão manual da equipe. Isso demonstrou a importância da análise humana para validar e ajustar o conteúdo produzido pela ferramenta.
+
 
 ---
 
@@ -94,7 +92,6 @@ As tarefas foram distribuídas da seguinte forma:
 
 - Organização e planejamento da aplicação;
 - Criação das telas e interface visual;
-- Configuração do banco de dados;
 - Desenvolvimento dos workflows e automações;
 - Testes de funcionamento e validação das funcionalidades;
 - Documentação e elaboração do relatório final.
@@ -115,18 +112,32 @@ A comunicação constante entre os integrantes foi essencial para alinhar decis�
 
 ---
 
+
 ## 🚀 Próximos Passos
 
 ### Melhorias Sugeridas
 
-1. Implementar novas funcionalidades para gerenciamento de dados;
-2. Melhorar a responsividade da interface em dispositivos móveis;
-3. Otimizar workflows para melhorar o desempenho da aplicação;
-4. Adicionar validações mais avançadas de segurança e autenticação.
+- Aprimorar e corrigir problemas na remoção e adição de livros;
+
+- Aprimorar o sistema de notificações para que o usuário possa configurar da sua preferência;
+
+- Adicionar capas e ilustrações reais dos livros para enriquecer o visual da bibliotéca.
+
 
 ### Evoluções Futuras
 
-1. Integração com APIs externas e serviços automatizados;
-2. Desenvolvimento de painel administrativo mais completo;
-3. Implementação de recursos de análise e relatórios;
-4. Migração futura para planos mais avançados da plataforma visando maior escalabilidade.
+- Implementar integração a apps de leitura como Kindle;
+
+- Adicionar autenticação de usuários;
+
+- Criar novas funcionalidades para o sistema(Ex: Visualizar histórico de leitura);
+
+- Criar uma comunidade para que usuários possam compartilhar livros, reflexões e interagir;
+
+- Integrar APIs externas para recomendações inteligentes de livros.
+
+Acesse a Solução do Protótipo: [Páginas](https://pginas-54957.bubbleapps.io/version-test)
+
+Integrante do grupo Colaborabor do Projeto [Uriel Queiroz](https://github.com/urielqueiroz06-source)
+
+
